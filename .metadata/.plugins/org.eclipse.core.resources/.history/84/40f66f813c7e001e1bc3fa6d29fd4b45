@@ -1,0 +1,12 @@
+package easy;
+
+public class MergeTwoSortedLists1 {
+	public static ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+		ListNode head = new ListNode();
+		ListNode tail = head;
+		
+		while(list1 != null && list2 != null) {
+			if ()
+		}
+	}
+}
